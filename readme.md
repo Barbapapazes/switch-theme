@@ -1,5 +1,4 @@
 # Switch theme with toggle button and sass files managment
-[finished]
 
 A simple static web page to show how to use the [sass files management](https://github.com/Barbapapazes/manage-scss-files)
 
